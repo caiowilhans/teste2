@@ -1,1 +1,26 @@
 # teste2
+
+## introdução as funções do github, exemplos abaixo:
+
+Este é um parágrafo com **negrita**, *cursiva*, e `código online`.
+
+- Lista desordenada
+   - Subelemento
+
+1. Lista ordenada
+    1. Subelemento
+
+> Citação de um autor famoso.
+
+```
+Bloco de código
+```
+
+[Links](https://www.ejemplo.com)
+
+![Imagem](https://www.ejemplo.com/imagen.jpg)
+
+| Encabezado 1 | Encabezado 2 | 
+| ------------- | ------------- | 
+| Fila 1 Col 1  | Fila 1 Col 2  | 
+| Fila 2 Col 1  | Fila 2 Col 2  |
