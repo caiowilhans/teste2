@@ -9,7 +9,7 @@ Este é um parágrafo com **negrita**, *cursiva*, e `código online`.
 ```
 Bloco de código
 ```
-[Links](https://www.lexaloffle.com/bbs/?pid=126683#p)
+[Link para jogar Donkey Kong](https://www.lexaloffle.com/bbs/?pid=126683#p)
 
 
 ![Imagem](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg/280px-Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg)
